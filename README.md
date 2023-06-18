@@ -1,2 +1,2 @@
-# SalvePets
-O site SalvePets é um site fictício feito educacionalmente. 
+# SalvesPets
+Site criado educacionalmente.
